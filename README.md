@@ -1,0 +1,2 @@
+# busybox-initrd
+Busybox initrd
