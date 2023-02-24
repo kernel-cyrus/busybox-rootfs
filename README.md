@@ -1,8 +1,7 @@
-# busybox-initrd
+# busybox-rootfs
 
-A rootfs staging folder with prebuild busybox tools.
+A busybox based rootfs staging folder.
 
-Components are intergrated in `/contents` folder:
 - busybox rootfs
 - aarch64-linux-gnu libc
 - linux perf tool
